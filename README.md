@@ -23,5 +23,9 @@ In the current version, there is an opportunity to use different resumes for var
 You can add keywords to include or exclude as well. Select the keyword and paste to the include or exclude textbox. Selected job descriptions will be saved to output.csv 
 ![image](https://github.com/utkuaysev/JobScraper/assets/33395066/849c7ab8-a1a4-4b1b-9597-7d6e6c74fe60)
 ![image](https://github.com/utkuaysev/JobScraper/assets/33395066/b3d3ec69-4ca7-45bb-8c85-34542aae11b6)
+![image](https://github.com/utkuaysev/JobScraper/assets/33395066/f3b2f33d-dc45-4ea3-8b8d-c1f605c02db4)
+![image](https://github.com/utkuaysev/JobScraper/assets/33395066/6ea99bde-bd86-4ace-8275-393f517a173e)
+
+
 
 
